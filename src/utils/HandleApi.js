@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "https://todo-list-backend-nwr9.onrender.com"
+const API_BASE_URL = "https://todo-list-backend-fjya.onrender.com"
 
 const getTodo = (setTodo) => {
     axios
