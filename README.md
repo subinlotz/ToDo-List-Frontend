@@ -19,4 +19,4 @@ This project is the frontend implementation of a To-Do List app using React.js. 
 ## Challenges Faced & Solutions
 - **API Integration Issues**: Used `axios` to handle API requests efficiently.
 
-Deployed Link: https://to-do-list-frontend-ftt5taz3k-subinlotzs-projects.vercel.app/
+Deployed Link: https://to-do-list-frontend-five.vercel.app/
